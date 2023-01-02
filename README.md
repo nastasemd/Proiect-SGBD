@@ -1,3 +1,3 @@
 # Proiect-SGBD
 
-Team project made with @NichiforVlad and @ioanmunteanu
+Uni team project made with @NichiforVlad and @ioanmunteanu
